@@ -1,11 +1,10 @@
 #' Title
 #'
-#' @param x
+#' @param x a numeric vector
 #'
 #' @return
 #' @export
 #'
-#' @examples
 my_mean <- function(x){
   base::mean(x, na.rm = TRUE)
 }

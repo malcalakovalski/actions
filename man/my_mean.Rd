@@ -7,7 +7,7 @@
 my_mean(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{a numeric vector}
 }
 \value{
 
